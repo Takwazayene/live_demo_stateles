@@ -11,16 +11,16 @@ Distinct Classes: A Stateful Widget consists of two distinct classes: the widget
 setState() Method: When the state of a Stateful Widget changes, the setState() method is called to notify of the state change. This results in the reconstruction of the relevant UI to reflect the new state.
 
 ### Examples of Interactive Widgets Used in this Project:
-FloatingActionButton
-TextButton
-ElevatedButton
-IconButton
-TextField with the use of TextEditingController
-Switch
-Slider
-CheckBox
-Radio
-showDatePicker
+- FloatingActionButton
+- TextButton
+- ElevatedButton
+- IconButton
+- TextField with the use of TextEditingController
+- Switch
+- Slider
+- CheckBox
+- Radio
+- showDatePicker
 
 These interactive widgets allow users to interact with the application in various ways, creating a dynamic and engaging user experience.
 
